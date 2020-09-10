@@ -1,4 +1,4 @@
-# trabalho3_op2 (Continuação Trabalho 2)
+# Trabalho3_Opt2 (Continuação Trabalho 2)
 
 A new Flutter project.
 
